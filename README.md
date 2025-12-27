@@ -1,6 +1,6 @@
 # Portfolio-Optimization-using-Modern-Portfolio-Theory
 
-**Portfolio Optimization Using Modern Portfolio Theory
+## Portfolio Optimization Using Modern Portfolio Theory
 Overview
 
 This project implements a portfolio optimization model using Modern Portfolio Theory (MPT) to determine the optimal allocation of capital across a set of publicly traded equities. The goal is to maximize risk-adjusted return while respecting real-world investment constraints.
